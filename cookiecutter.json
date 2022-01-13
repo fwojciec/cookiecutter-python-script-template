@@ -1,0 +1,5 @@
+{
+  "script_name": "simple_script",
+  "description": "Simple python script with tooling niceties.",
+  "version": "0.1.0"
+}
